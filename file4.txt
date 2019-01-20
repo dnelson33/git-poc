@@ -1,0 +1,1 @@
+Adding some text to file4 which is deleted in new-branch-who-dis
